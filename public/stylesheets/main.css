@@ -1,0 +1,12 @@
+.thumb img{
+width: 100%;
+}
+.thumb{
+    padding: 0;
+}
+.thumb .caption-full{
+    padding: 9px;
+}
+.delete-form{
+    display: inline !important;
+}
